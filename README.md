@@ -1,0 +1,2 @@
+# Tissue-aware-co-expression-network-topology-improves-prediction-of-oncology-drug-sensitivity
+A tissue-aware computational framework predicting cancer drug sensitivity via gene co-expression network topology. By deriving WGCNA modules and edge disruption profiles, it outperforms expression baselines. Validated on CCLE/GDSC2 and external datasets, revealing Hippo/YAP pathway network biomarkers for targeted oncology therapies.
